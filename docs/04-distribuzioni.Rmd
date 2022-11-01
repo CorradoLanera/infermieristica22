@@ -1,6 +1,6 @@
 ---
-title: "Informatica, Statistica, e Fisica Applicata"
-subtitle: "Corso di laurea in ORTOTTICA E ASSISTENZA OFTALMOLOGICA"
+title: "Management, Medicina Legale, Epidemiologia e Statistica"
+subtitle: "Corso di laurea in INFERMIERISTICA"
 author: "[CorradoLanera](www.CorradoLanera.it)"
 date: "YYYY-MM-DD (last update: `r Sys.Date()`)"
 institute: "[Unità di Biostatistica, Epidemiologia e Salute Pubblicah](https://www.unipd-ubep.it/) --- University of Padova"
@@ -73,14 +73,14 @@ style_share_again(
 ```{r meta, echo=FALSE}
 meta() %>%
   meta_general(
-    description = "Modulo di STATISTICA MEDICA del corso in INFORMATICA, STATISTICA, E FISICA APPLICATA per il corso di laurea in ORTOTTICA E ASSISTENZA OFTALMOLOGICA",
+    description = "Modulo di EPIDEMIOLOGIA E STATISTICA del corso in Management, Medicina Legale, Epidemiologia e Statistica per il corso di laurea in INFERMIERISTICA",
     generator = "xaringan and remark.js"
   ) %>% 
-  meta_name("github-repo" = "CorradoLanera/ORTOTTICA") %>% 
+  meta_name("github-repo" = "CorradoLanera/infermieristica22") %>% 
   meta_social(
-    title = "Informatica, Statistica, e Fisica Apllicata",
-    url = "https://corradolanera.github.io/ortottica/#1",
-    image = "https://github.com/CorradoLanera/ortottica/raw/main/docs/img/cover.jpg",
+    title = "Management, Medicina Legale, Epidemiologia e Statistica",
+    url = "https://corradolanera.github.io/infermieristica22/#1",
+    image = "https://github.com/CorradoLanera/infermieristica22/raw/main/docs/img/cover.jpg",
     og_type = "website",
     og_author = "UBEP",
     twitter_card_type = "summary",
@@ -161,7 +161,7 @@ style_duo_accent(
 <br>
 <br>
 
-# **INFORMATICA, STATISTICA, E FISICA APPLICATA**<br>**.orange[STATISTICA MEDICA]**
+# **Management, Medicina Legale, Epidemiologia e Statistica**<br>**.orange[EPIDEMIOLOGIA E STATISTICA]**
 
 -- Distribuzioni di probabilità --
 
@@ -169,11 +169,11 @@ style_duo_accent(
 <br>
 <br>
 
-C.d.L. **Ortottica e Assistenza Oftalmologica**
+C.d.L. **INFERMIERISTICA**
 
 Padova, a.a. 2022/2023 - 20 ore (2 crediti)
 
-Corrado Lanera | [**Unità di Biostatistica, Epidemiologia e Salute Pubblic**](https://www.unipd-ubep.it/)
+Corrado Lanera | [**Unità di Biostatistica, Epidemiologia e Salute Pubblica**](https://www.unipd-ubep.it/)
 
 
 
@@ -1991,7 +1991,7 @@ class: middle, center, hide-count, inverse
 
 # .orange[link al _vostro_ cloud:]
 
-[https://bit.ly/ortottica-rscloud22](https://bit.ly/ortottica-rscloud22)
+[https://bit.ly/infermieristica22-rscloud](https://bit.ly/infermieristica22-rscloud)
 
 
 
@@ -2028,7 +2028,7 @@ class: inverse
 
 # Risorse utili
 
-- [**RStudio Cloud**](https://bit.ly/ortottica-rscloud22): [https://bit.ly/ortottica-rscloud22](https://bit.ly/ortottica-rscloud22) gratis per voi per esplorare RStudio, le sue funzionalità, e allenarvi con R (link di iscrizione valido fino alla fine del corso). NOTA: a vostra scelta, è utilizzabile anche come _supporto_ durante l'esame.
+- [**RStudio Cloud**](https://bit.ly/infermieristica22-rscloud): [https://bit.ly/infermieristica22-rscloud](https://bit.ly/infermieristica22-rscloud) gratis per voi per esplorare RStudio, le sue funzionalità, e allenarvi con R (link di iscrizione valido fino alla fine del corso). NOTA: a vostra scelta, è utilizzabile anche come _supporto_ durante l'esame.
 
 - [**RStudio primers**](https://rstudio.cloud/learn/primers) ambiente gratuito dentro RStudio Cloud per l'apprendimento delle basi di analisi di dati con R tramite tutorial interattivi. Una volta registrati, oltre all'accesso al _nostro_ spazio di lavoro, avete accesso libero anche ai _Primers_.
 
@@ -2069,7 +2069,7 @@ _Mathematical conventions are just that, conventions. They differ by field of ma
 
 
 
-Diapositive: [bit.ly/ortottica-slide22](https://bit.ly/ortottica-slide22)
+Diapositive: [bit.ly/infermieristica22-slide](https://bit.ly/infermieristica22-slide)
 
 
 [`r fontawesome::fa("link")`](https://www.unipd-ubep.it/) [**www.unipd-ubep.it**](https://www.unipd-ubep.it/) | 
@@ -2079,6 +2079,6 @@ Diapositive: [bit.ly/ortottica-slide22](https://bit.ly/ortottica-slide22)
 [`r fontawesome::fa("twitter")`](https://twitter.com/corradolanera)
 [`r fontawesome::fa("telegram")`](https://telegram.me/CorradoLanera)
 **@CorradoLanera** |
-[`r fontawesome::fa("calendar-check")` ](https://bit.ly/ortottica-ricevimento22) [**bit.ly/ortottica-ricevimento22**](https://bit.ly/ortottica-ricevimento22)
+[`r fontawesome::fa("calendar-check")` ](https://bit.ly/infermieristica22-ricevimento) [**bit.ly/infermieristica22-ricevimento**](https://bit.ly/infermieristica22-ricevimento)
 
 
