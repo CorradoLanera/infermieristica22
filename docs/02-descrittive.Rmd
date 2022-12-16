@@ -229,8 +229,9 @@ class: hide-count
 
 <br><br>
 
-> Un ringraziamento speciale a Cristiana Vettori per
-l'aiuto e il supporto logistico e amministrativo che mi è stato offerto.
+> Un ringraziamento speciale a Cristiana Vettori per l'aiuto e il
+supporto logistico e amministrativo che mi è stato offerto, e ad Andrea
+Francavilla per avermi supportato nella conduzione di questa lezione.
 
 
 
